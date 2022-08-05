@@ -1,0 +1,43 @@
+.body-default {
+	background-color:#17202A ;
+}
+
+.body-marketplace {
+	background-color:white ;
+}
+
+footer {
+	background-color: #E67E22 ;
+}
+
+.contacto {
+	background-color: #F2F3F4 ;
+	
+}
+
+.linea{
+	background-color:orange;
+	height: 1px;
+	width: 100%;
+	display: block;
+
+}
+
+
+
+#envideo{
+text-align: ;
+font-weight: lighter;
+border-radius: 5px;
+cursor: pointer;
+color: white;
+}
+
+#envideo:hover{
+background-color:lightgray;
+color: black;
+
+}
+
+
+
