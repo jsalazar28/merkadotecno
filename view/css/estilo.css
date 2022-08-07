@@ -12,7 +12,6 @@ footer {
 
 .contacto {
 	background-color: #F2F3F4 ;
-	
 }
 
 .linea{
@@ -20,13 +19,9 @@ footer {
 	height: 1px;
 	width: 100%;
 	display: block;
-
 }
 
-
-
 #envideo{
-text-align: ;
 font-weight: lighter;
 border-radius: 5px;
 cursor: pointer;
@@ -36,8 +31,4 @@ color: white;
 #envideo:hover{
 background-color:lightgray;
 color: black;
-
 }
-
-
-
