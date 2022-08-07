@@ -11,7 +11,19 @@ footer {
 }
 
 .contacto {
-	background-color: #F2F3F4 ;
+	background-image: url(../img/fondocontacto.jpg);
+	background-size: 100%;
+	font-family: arial;
+	
+}
+
+
+#imagen img:hover{ 
+	filter: grayscale(90%);
+	transition-property: filter;
+	transition-duration: 1s;
+	width: 90%;
+
 }
 
 .linea{
