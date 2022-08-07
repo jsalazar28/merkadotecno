@@ -1,54 +1,47 @@
 .body-default {
-background-color:#17202A ;
-
+    background-color: #17202A;
 }
-	
 
 .body-marketplace {
-	background-color:white ;
+    background-color: white;
 }
 
 footer {
-	background-color: #E67E22 ;
+    background-color: #E67E22;
 }
 
 .contacto {
-	background-image: url(../img/fondocontacto.png);
-	background-size: 100%;
-	
-
+    background-image: url(../img/fondocontacto.png);
+    background-size: 100%;
 }
 
-
-#imagen img:hover{ 
-	filter: grayscale(90%);
-	transition-property: filter;
-	transition-duration: 1s;
-	width: 90%;
-
+#imagen img:hover {
+    filter: grayscale(90%);
+    transition-property: filter;
+    transition-duration: 1s;
+    width: 90%;
 }
 
-.linea{
-	background-color:orange;
-	height: 1px;
-	width: 100%;
-	display: block;
+.linea {
+    background-color: orange;
+    height: 1px;
+    width: 100%;
+    display: block;
 }
 
-#envideo{
-font-weight: lighter;
-border-radius: 5px;
-cursor: pointer;
-color: white;
+#envideo {
+    font-weight: lighter;
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
 }
 
-#envideo:hover{
-background-color:lightgray;
-color: black;
+#envideo:hover {
+    background-color: lightgray;
+    color: black;
 }
 
-#mt{
-background-image:url(../img/logobg.png);
-width: 200%;	
+#mt {
+    background-image: url(../img/logobg.png);
+    width: 200%;
 }
-
