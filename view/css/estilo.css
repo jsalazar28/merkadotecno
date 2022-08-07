@@ -1,6 +1,8 @@
 .body-default {
-	background-color:#17202A ;
+background-color:#17202A ;
+
 }
+	
 
 .body-marketplace {
 	background-color:white ;
@@ -14,7 +16,7 @@ footer {
 	background-image: url(../img/fondocontacto.png);
 	background-size: 100%;
 	
-	
+
 }
 
 
@@ -44,3 +46,9 @@ color: white;
 background-color:lightgray;
 color: black;
 }
+
+#mt{
+background-image:url(../img/logobg.png);
+width: 200%;	
+}
+
